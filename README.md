@@ -6,7 +6,7 @@ This MATLAB script analyzes the particles in a given image according to size and
 - MATLAB software (available for download at https://www.mathworks.com/products/matlab.html)
 
 ## Usage
-1. Download the all files and place them in your working directory.
+1. Download all files and place them in your working directory.
 2. Open the script "main.m" in MATLAB and modify the `image` variable according to your image name to represent your desired data.
 3. Run the script by pressing the "Run" button or by typing `run main.m` in the command window.
 

@@ -16,6 +16,9 @@ The script will group all particles into size categories and it will produce a b
 ## Extra
 The repository provides a jpg image called "1W92_C.jpg" so that the interested user can test the algorithm.
 
+## Limitations
+The algorithm is designed to exclusively process the specific image format included in this repository. Moreover, an 8mm circle is utilized as a reference for length measurements in subsequent image analyses. Additionally, the code implementation is sensitive to image dimensions.
+
 ## Contact
 If you have any questions or issues with this script, please feel free to reach out to me via email at [riccardotiberi1905@gmail.com].
 
